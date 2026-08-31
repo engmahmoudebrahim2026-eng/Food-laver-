@@ -79,7 +79,6 @@ to practice building real-world responsive websites.
 | 🟣 Bootstrap 5 | Responsive Design & Components |
 
 ---
-
 # 📂 Project Structure
 
 ```text
