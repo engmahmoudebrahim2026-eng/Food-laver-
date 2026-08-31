@@ -98,3 +98,7 @@ Food-Lover/
 │   └── ...
 │
 └── README.md
+
+## Update
+
+Improved project documentation.
